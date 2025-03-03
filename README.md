@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0878-shifting-letters](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0878-shifting-letters) |
 ## String
 |  |
@@ -21,4 +22,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
