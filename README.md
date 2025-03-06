@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0205-isomorphic-strings) |
 | [0878-shifting-letters](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0878-shifting-letters) |
 ## Prefix Sum
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0349-intersection-of-two-arrays) |
