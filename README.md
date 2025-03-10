@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0380-insert-delete-getrandom-o1) |
 | [0454-4sum-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0797-rabbits-in-forest) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0069-sqrtx) |
+| [0380-insert-delete-getrandom-o1](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0380-insert-delete-getrandom-o1) |
 | [0797-rabbits-in-forest](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0797-rabbits-in-forest) |
 ## Binary Search
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0380-insert-delete-getrandom-o1) |
 | [0454-4sum-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0797-rabbits-in-forest) |
@@ -101,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0797-rabbits-in-forest) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
