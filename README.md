@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0219-contains-duplicate-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0169-majority-element) |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0206-reverse-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
