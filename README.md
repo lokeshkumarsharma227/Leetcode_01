@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1694-make-sum-divisible-by-p) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2690-house-robber-iv](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2690-house-robber-iv) |
 ## String
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0349-intersection-of-two-arrays) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2690-house-robber-iv](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2690-house-robber-iv) |
 ## Hash Table
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0349-intersection-of-two-arrays) |
 | [0807-custom-sort-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0807-custom-sort-string) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Divide and Conquer
 |  |
 | ------- |
