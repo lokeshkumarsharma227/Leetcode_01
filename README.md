@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1694-make-sum-divisible-by-p) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2102-find-the-middle-index-in-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2102-find-the-middle-index-in-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2690-house-robber-iv](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2690-house-robber-iv) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0380-insert-delete-getrandom-o1) |
 | [0797-rabbits-in-forest](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0797-rabbits-in-forest) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0349-intersection-of-two-arrays) |
 | [0807-custom-sort-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0807-custom-sort-string) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2179-most-beautiful-item-for-each-query) |
 | [3430-count-days-without-meetings](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3430-count-days-without-meetings) |
 ## Divide and Conquer
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0073-set-matrix-zeroes) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Tree
 |  |
 | ------- |
