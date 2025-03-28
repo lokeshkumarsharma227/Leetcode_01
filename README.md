@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2690-house-robber-iv](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2690-house-robber-iv) |
+| [2751-sliding-subarray-beauty](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2751-sliding-subarray-beauty) |
 | [3430-count-days-without-meetings](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3430-count-days-without-meetings) |
 ## String
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1694-make-sum-divisible-by-p) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2751-sliding-subarray-beauty](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2751-sliding-subarray-beauty) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0219-contains-duplicate-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2751-sliding-subarray-beauty](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2751-sliding-subarray-beauty) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
