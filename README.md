@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0878-shifting-letters) |
 | [1006-vowel-spellchecker](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1046-max-consecutive-ones-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1694-make-sum-divisible-by-p) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0560-subarray-sum-equals-k) |
 | [0878-shifting-letters](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0878-shifting-letters) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1046-max-consecutive-ones-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1694-make-sum-divisible-by-p) |
 | [2102-find-the-middle-index-in-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2102-find-the-middle-index-in-array) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1046-max-consecutive-ones-iii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2690-house-robber-iv](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2690-house-robber-iv) |
 ## Hash Table
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0219-contains-duplicate-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2751-sliding-subarray-beauty](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2751-sliding-subarray-beauty) |
 ## Heap (Priority Queue)
