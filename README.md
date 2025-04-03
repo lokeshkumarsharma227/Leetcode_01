@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0205-isomorphic-strings) |
 | [0807-custom-sort-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0807-custom-sort-string) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0141-linked-list-cycle) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0005-longest-palindromic-substring) |
 | [0410-split-array-largest-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0410-split-array-largest-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Stack
