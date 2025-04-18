@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0005-longest-palindromic-substring) |
+| [0038-count-and-say](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0205-isomorphic-strings) |
