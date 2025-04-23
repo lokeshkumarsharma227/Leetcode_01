@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0416-partition-equal-subset-sum) |
 | [0454-4sum-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0454-4sum-ii) |
+| [0503-next-greater-element-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0560-subarray-sum-equals-k) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0094-binary-tree-inorder-traversal) |
+| [0503-next-greater-element-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0503-next-greater-element-ii) |
 | [3738-make-array-non-decreasing](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3738-make-array-non-decreasing) |
 ## Bit Manipulation
 |  |
@@ -270,5 +272,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0503-next-greater-element-ii) |
 | [3738-make-array-non-decreasing](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3738-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
