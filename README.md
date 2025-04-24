@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2751-sliding-subarray-beauty](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2751-sliding-subarray-beauty) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3430-count-days-without-meetings](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3430-count-days-without-meetings) |
 | [3738-make-array-non-decreasing](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3738-make-array-non-decreasing) |
 ## String
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2751-sliding-subarray-beauty](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2751-sliding-subarray-beauty) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2751-sliding-subarray-beauty](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2751-sliding-subarray-beauty) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
