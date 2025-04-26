@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2690-house-robber-iv](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2751-sliding-subarray-beauty](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2751-sliding-subarray-beauty) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0219-contains-duplicate-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2751-sliding-subarray-beauty](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Heap (Priority Queue)
@@ -280,4 +282,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0503-next-greater-element-ii) |
 | [3738-make-array-non-decreasing](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3738-make-array-non-decreasing) |
+## Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
