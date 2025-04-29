@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0410-split-array-largest-sum) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0239-sliding-window-maximum) |
 | [1046-max-consecutive-ones-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0239-sliding-window-maximum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Greedy
 |  |
@@ -293,9 +296,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0239-sliding-window-maximum) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0239-sliding-window-maximum) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
