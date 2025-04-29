@@ -1,15 +1,20 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        n = len(s)
-        if n == 0:
-            return ""
-
-        longest = s[0]
-
-        for i in range(n):
-            for j in range(i, n):
-                sub = s[i:j+1]
-                if sub == sub[::-1] and len(sub) > len(longest):
-                    longest = sub
-
-        return longest
+        res=" "
+        resLen=0
+        for i in range(len(s)):
+            l,r=i,i
+            while l>=0 and r<len(s) and s[r]==s[l]:
+                if(r-l+1)>resLen:
+                    res=s[l:r+1]
+                    resLen=r-l+1
+                l-=1
+                r+=1
+            l,r=i,i+1
+            while l>=0 and r<len(s) and s[l]==s[r]:
+                if(r-l+1)>resLen:
+                    res=s[l:r+1]
+                    resLen=r-l+1
+                l-=1
+                r+=1
+        return res
