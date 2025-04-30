@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0380-insert-delete-getrandom-o1) |
 | [0797-rabbits-in-forest](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1500-count-largest-group) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0231-power-of-two) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Backtracking
