@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1293-three-consecutive-odds) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1694-make-sum-divisible-by-p) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1993-sum-of-all-subset-xor-totals) |
