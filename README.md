@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0908-middle-of-the-linked-list) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0349-intersection-of-two-arrays) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0206-reverse-linked-list) |
@@ -351,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2048-build-array-from-permutation) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
