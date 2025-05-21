@@ -6,12 +6,9 @@ class Solution:
         elif n == 1:
             return nums[0]
         
-        second_last = 0
-        last = nums[0]
-        
-        for i in range(1, n):
-            ans = max(nums[i] + second_last, last)
-            second_last = last
-            last = ans
-        
-        return last
+        dp = [0] * (n + 2) 
+
+        for i in range(n - 1, -1, -1):
+            dp[i] = max(nums[i] + dp[i + 2], dp[i + 1])
+
+        return dp[0]
