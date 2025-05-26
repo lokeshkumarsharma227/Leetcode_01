@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0084-largest-rectangle-in-histogram) |
+| [0120-triangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0198-house-robber) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0062-unique-paths) |
+| [0120-triangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0410-split-array-largest-sum) |
