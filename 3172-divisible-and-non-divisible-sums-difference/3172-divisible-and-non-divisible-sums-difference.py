@@ -3,8 +3,6 @@ class Solution:
         ans=0
         divisible=[]
         not_divisible=[]
-        divisible_sum=0
-        not_divisible_sum=0
         for i in range(1,n+1):
             if i%m!=0:
                 not_divisible.append(i)
