@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2215-finding-3-digit-even-numbers) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2751-sliding-subarray-beauty](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0410-split-array-largest-sum) |
 | [0797-rabbits-in-forest](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3738-make-array-non-decreasing](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3738-make-array-non-decreasing) |
 ## Design
 |  |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0503-next-greater-element-ii) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3738-make-array-non-decreasing](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3738-make-array-non-decreasing) |
 ## Bit Manipulation
 |  |
