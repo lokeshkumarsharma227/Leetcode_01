@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1013-fibonacci-number) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1022-unique-paths-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1022-unique-paths-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1993-sum-of-all-subset-xor-totals) |
