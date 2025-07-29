@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2215-finding-3-digit-even-numbers](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2215-finding-3-digit-even-numbers) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2690-house-robber-iv](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1046-max-consecutive-ones-iii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2690-house-robber-iv](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2690-house-robber-iv) |
 ## Hash Table
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2751-sliding-subarray-beauty](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1022-unique-paths-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Backtracking
 |  |
 | ------- |
