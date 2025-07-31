@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0797-rabbits-in-forest) |
 | [0878-shifting-letters](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0878-shifting-letters) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1006-vowel-spellchecker](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1022-unique-paths-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1022-unique-paths-iii) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0416-partition-equal-subset-sum) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1022-unique-paths-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2059-unique-length-3-palindromic-subsequences) |
