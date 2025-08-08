@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0380-insert-delete-getrandom-o1) |
 | [0797-rabbits-in-forest](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1013-fibonacci-number) |
 | [1500-count-largest-group](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0416-partition-equal-subset-sum) |
+| [0826-soup-servings](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -442,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
