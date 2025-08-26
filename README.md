@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3430-count-days-without-meetings) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
