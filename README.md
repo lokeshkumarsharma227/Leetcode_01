@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3430-count-days-without-meetings) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3321-type-of-triangle) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2215-finding-3-digit-even-numbers](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2215-finding-3-digit-even-numbers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3430-count-days-without-meetings) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2215-finding-3-digit-even-numbers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Monotonic Stack
 |  |
@@ -488,5 +492,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
