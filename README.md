@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1656-count-good-triplets) |
 | [1694-make-sum-divisible-by-p](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1694-make-sum-divisible-by-p) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1500-count-largest-group) |
 | [1694-make-sum-divisible-by-p](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1694-make-sum-divisible-by-p) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1448-maximum-69-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3738-make-array-non-decreasing](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3738-make-array-non-decreasing) |
 ## Design
