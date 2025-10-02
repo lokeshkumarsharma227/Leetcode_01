@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0219-contains-duplicate-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0166-fraction-to-recurring-decimal) |
+| [0189-rotate-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0380-insert-delete-getrandom-o1) |
 | [0797-rabbits-in-forest](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0797-rabbits-in-forest) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0908-middle-of-the-linked-list) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
