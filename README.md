@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0380-insert-delete-getrandom-o1) |
+| [0407-trapping-rain-water-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0407-trapping-rain-water-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [3678-design-task-manager](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3678-design-task-manager) |
 ## Greedy
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0498-diagonal-traverse) |
 | [1022-unique-paths-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1022-unique-paths-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0407-trapping-rain-water-ii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
