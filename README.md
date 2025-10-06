@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0830-largest-triangle-area) |
 | [0878-shifting-letters](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0878-shifting-letters) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1046-max-consecutive-ones-iii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0794-swim-in-rising-water) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [3678-design-task-manager](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3678-design-task-manager) |
 ## Greedy
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0794-swim-in-rising-water) |
 | [1022-unique-paths-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1022-unique-paths-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0543-diameter-of-binary-tree) |
+| [0794-swim-in-rising-water](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0794-swim-in-rising-water) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
@@ -421,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0794-swim-in-rising-water) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
@@ -578,4 +584,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3462-vowels-game-in-a-string) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
