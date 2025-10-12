@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Stack
 |  |
 | ------- |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
 |  |
 | ------- |
@@ -602,4 +607,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0794-swim-in-rising-water) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
