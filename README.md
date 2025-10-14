@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3430-count-days-without-meetings](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3430-count-days-without-meetings) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
