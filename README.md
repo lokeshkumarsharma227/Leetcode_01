@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3194-find-words-containing-character) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3797-design-spreadsheet](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3797-design-spreadsheet) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2529-range-product-queries-of-powers](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Backtracking
@@ -621,5 +624,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
