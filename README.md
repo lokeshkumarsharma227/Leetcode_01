@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2169-simple-bank-system) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2215-finding-3-digit-even-numbers](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2215-finding-3-digit-even-numbers) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1022-unique-paths-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3748-sort-matrix-by-diagonals) |
