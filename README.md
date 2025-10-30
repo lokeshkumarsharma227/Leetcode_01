@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1612-avoid-flood-in-the-city](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1656-count-good-triplets) |
 | [1694-make-sum-divisible-by-p](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1694-make-sum-divisible-by-p) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0503-next-greater-element-ii) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3738-make-array-non-decreasing](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3738-make-array-non-decreasing) |
 ## Bit Manipulation
@@ -587,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0503-next-greater-element-ii) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3738-make-array-non-decreasing](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3738-make-array-non-decreasing) |
 ## Queue
 |  |
