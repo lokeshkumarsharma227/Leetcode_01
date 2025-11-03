@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1656-count-good-triplets) |
 | [1694-make-sum-divisible-by-p](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1694-make-sum-divisible-by-p) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2048-build-array-from-permutation) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
