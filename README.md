@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1022-unique-paths-iii) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1013-fibonacci-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Segment Tree
 |  |
