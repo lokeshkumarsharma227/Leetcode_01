@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0594-longest-harmonious-subsequence) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0797-rabbits-in-forest) |
