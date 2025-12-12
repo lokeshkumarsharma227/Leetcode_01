@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3430-count-days-without-meetings](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3430-count-days-without-meetings) |
+| [3433-count-mentions-per-user](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3433-count-mentions-per-user) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3531-count-covered-buildings) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3430-count-days-without-meetings) |
+| [3433-count-mentions-per-user](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -689,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3433-count-mentions-per-user) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3790-fruits-into-baskets-ii) |
