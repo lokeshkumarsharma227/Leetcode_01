@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2092-find-all-people-with-secret](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0794-swim-in-rising-water) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0794-swim-in-rising-water) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2092-find-all-people-with-secret) |
 ## Binary Tree
 |  |
 | ------- |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0794-swim-in-rising-water) |
+| [2092-find-all-people-with-secret](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2092-find-all-people-with-secret) |
 ## Bitmask
 |  |
 | ------- |
@@ -757,4 +761,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Graph
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
