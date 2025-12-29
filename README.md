@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0205-isomorphic-strings) |
 | [0474-ones-and-zeroes](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0474-ones-and-zeroes) |
+| [0756-pyramid-transition-matrix](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0756-pyramid-transition-matrix) |
 | [0807-custom-sort-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0807-custom-sort-string) |
 | [0878-shifting-letters](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0878-shifting-letters) |
 | [1006-vowel-spellchecker](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1006-vowel-spellchecker) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0594-longest-harmonious-subsequence) |
+| [0756-pyramid-transition-matrix](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0756-pyramid-transition-matrix) |
 | [0797-rabbits-in-forest](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0807-custom-sort-string) |
 | [0940-fruit-into-baskets](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0940-fruit-into-baskets) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0756-pyramid-transition-matrix](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1022-unique-paths-iii) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0039-combination-sum) |
 | [0052-n-queens-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0052-n-queens-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0756-pyramid-transition-matrix) |
 | [1022-unique-paths-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1022-unique-paths-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2174-next-greater-numerically-balanced-number) |
