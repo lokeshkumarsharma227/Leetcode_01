@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0118-pascals-triangle) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0189-rotate-array) |
