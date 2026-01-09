@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0756-pyramid-transition-matrix) |
 | [0797-rabbits-in-forest](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0807-custom-sort-string) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0940-fruit-into-baskets](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0543-diameter-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -589,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Dynamic Programming
