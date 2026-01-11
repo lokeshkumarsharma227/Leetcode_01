@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0417-pacific-atlantic-water-flow) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0062-unique-paths) |
+| [0085-maximal-rectangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0198-house-robber) |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0145-binary-tree-postorder-traversal) |
@@ -697,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0503-next-greater-element-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3738-make-array-non-decreasing](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3738-make-array-non-decreasing) |
