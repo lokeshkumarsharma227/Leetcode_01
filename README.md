@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1022-unique-paths-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1975-maximum-matrix-sum) |
