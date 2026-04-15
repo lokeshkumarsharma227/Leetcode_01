@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2529-range-product-queries-of-powers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2976-minimum-cost-to-convert-string-i) |
