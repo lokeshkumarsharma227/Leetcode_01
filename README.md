@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2690-house-robber-iv) |
 | [3453-separate-squares-i](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3488-closest-equal-element-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2915-count-of-interesting-subarrays) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3488-closest-equal-element-queries](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3531-count-covered-buildings) |
