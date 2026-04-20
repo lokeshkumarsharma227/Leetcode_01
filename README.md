@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2054-two-best-non-overlapping-events](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2054-two-best-non-overlapping-events) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2102-find-the-middle-index-in-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2102-find-the-middle-index-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1975-maximum-matrix-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
