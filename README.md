@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1656-count-good-triplets) |
 | [1694-make-sum-divisible-by-p](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1895-largest-magic-square](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1833-maximum-ice-cream-bars](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1833-maximum-ice-cream-bars) |
 | [2054-two-best-non-overlapping-events](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1975-maximum-matrix-sum](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -884,4 +887,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3474-lexicographically-smallest-generated-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
