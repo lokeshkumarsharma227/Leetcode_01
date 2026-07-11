@@ -623,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2092-find-all-people-with-secret) |
+| [2685-count-the-number-of-complete-components](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2685-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2092-find-all-people-with-secret) |
+| [2685-count-the-number-of-complete-components](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -884,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2685-count-the-number-of-complete-components) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
@@ -897,4 +900,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1833-maximum-ice-cream-bars) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
