@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1260-shift-2d-grid](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1293-three-consecutive-odds) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0794-swim-in-rising-water) |
 | [1022-unique-paths-iii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1022-unique-paths-iii) |
+| [1260-shift-2d-grid](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0498-diagonal-traverse) |
+| [1260-shift-2d-grid](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1260-shift-2d-grid) |
 | [1642-water-bottles](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2048-build-array-from-permutation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2075-decode-the-slanted-ciphertext) |
