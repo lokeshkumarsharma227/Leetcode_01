@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3454-separate-squares-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/2915-count-of-interesting-subarrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/1013-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3483-unique-3-digit-even-numbers](https://github.com/lokeshkumarsharma227/Leetcode_01/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
