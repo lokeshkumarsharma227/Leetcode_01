@@ -11,4 +11,4 @@ class Solution:
             if  d<0:
                 res+=1
                 d=0
-        return res+abs(d)
+        return res+d
